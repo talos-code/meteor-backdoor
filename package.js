@@ -1,7 +1,7 @@
 Package.describe({
   name: 'talos:backdoor',
   summary: 'Runs arbitrary code on server',
-  version: '0.2.0',
+  version: '4.0.0',
   testOnly: true
 });
 
