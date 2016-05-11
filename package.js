@@ -2,7 +2,7 @@ Package.describe({
   name: 'xolvio:backdoor',
   summary: 'Runs arbitrary code on server',
   version: '0.2.0',
-  debugOnly: true
+  testOnly: true
 });
 
 Package.onUse(function (api) {
