@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'xolvio:backdoor',
+  name: 'talos:backdoor',
   summary: 'Runs arbitrary code on server',
   version: '0.2.0',
   testOnly: true
